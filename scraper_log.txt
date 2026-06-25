@@ -1,0 +1,20 @@
+[2026-06-26 00:15:06] Starting scraper engine...
+[2026-06-26 00:15:06] Loaded existing database with 20 entries.
+[2026-06-26 00:15:06] Crawling Creality: https://www.creality.com/all-products
+[2026-06-26 00:15:07] Creality Page title: 'Creality 3D Printers | Explore the Complete Range of 3D Printers'
+[2026-06-26 00:15:07] Discovered 4 scanner-related links on Creality catalog.
+[2026-06-26 00:15:09] Crawling Shining 3D: https://www.shining3d.com/
+[2026-06-26 00:15:10] Shining 3D Page title: 'SHINING 3D | High Accuracy 3D Scanning Solutions | Dental 3D Scanners'
+[2026-06-26 00:15:10] Discovered 29 scanner-related links on Shining 3D homepage.
+[2026-06-26 00:15:12] Crawling Revopoint: https://www.revopoint3d.com/products/
+[2026-06-26 00:15:12] Revopoint Page title: '
+      Collections
+    '
+[2026-06-26 00:15:12] Discovered 22 scanner-related links on Revopoint products page.
+[2026-06-26 00:15:14] Crawling Artec 3D: https://www.artec3d.com/portable-3d-scanners
+[2026-06-26 00:15:14] Artec 3D Page title: 'Handheld 3D scanners | Portable 3D scanning solutions'
+[2026-06-26 00:15:14] Discovered 22 scanner-related links on Artec 3D page.
+[2026-06-26 00:15:14] Matching crawl data with local seeded database...
+[2026-06-26 00:15:14] Database successfully updated. Total scanners: 20
+[2026-06-26 00:15:14] Scraping and validation process complete!
+[2026-06-26 00:15:14] STATUS: SUCCESS
